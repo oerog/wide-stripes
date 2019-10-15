@@ -1,0 +1,27 @@
+{
+  "name": "Wide Screen Alternate Background",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "Dark Mobile": {
+      "primary": "f5f5f5",
+      "secondary": "333",
+      "tertiary": "2572e4",
+      "quaternary": "518EE9",
+      "header_background": "1550a7",
+      "header_primary": "f5f5f5",
+      "highlight": "b4d9fe",
+      "danger": "e45735",
+      "success": "85cc54",
+      "love": "ff2222"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
