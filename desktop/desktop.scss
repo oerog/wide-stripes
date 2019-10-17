@@ -5,6 +5,17 @@
 .suggested-topics-title {
     margin-left: 20px;
 }
+/********** category boxes ******/
+.navigation-categories.categories-list #main.kony  {
+    background-color: #222;
+}
+
+/********** sidebar ***********/
+.topic-list thead   {     
+    background-color:#444 !important; 
+    border-bottom:solid 1px #222!important;
+}
+body{background-color:#222222 !important }
 /**********  sidebar ***********/
 .topic-list thead   {     
     background-color:#444 !important; 
